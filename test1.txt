@@ -2,6 +2,8 @@ Question 1:
 
 some text
 
+some add'l text; there was an error previously
+
 Student Answer:
 
 
